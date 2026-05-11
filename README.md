@@ -32,9 +32,6 @@ The model recognizes 20 different technologies across various domains:
 ### Setup
 
 1. **Clone/Download the project**
-   ```bash
-   cd AI/recommender
-   ```
 
 2. **Install dependencies**
    ```bash
