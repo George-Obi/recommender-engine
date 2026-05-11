@@ -116,7 +116,7 @@ recommender/
 The model prints its accuracy on a test set (80/20 split):
 
 ```
-Model Accuracy: 0.XX
+Model Accuracy: 0.58
 ```
 
 ## API Functions
@@ -151,7 +151,7 @@ See `requirements.txt` for all dependencies:
 
 ## Author
 
-DecodeLabs Internship - Project 3
+RAMZY
 
 ## License
 
